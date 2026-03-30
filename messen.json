@@ -1,0 +1,26 @@
+[
+  {
+    "id": "A3F4F5E4-9D7C-4F24-9B49-7D8D6D88A101",
+    "name": "Hannover Messe",
+    "ort": "Hannover",
+    "land": "DE",
+    "startDatum": "2026-04-20T00:00:00Z",
+    "endDatum": "2026-04-24T00:00:00Z",
+    "beschreibung": "Internationale Industriemesse",
+    "website": "https://www.hannovermesse.de",
+    "veranstalter": "Deutsche Messe AG",
+    "kategorien": ["Industrie", "Automation"]
+  },
+  {
+    "id": "8F1B56A2-3D9F-4C6D-8890-2BBA3344C202",
+    "name": "ISH Frankfurt",
+    "ort": "Frankfurt",
+    "land": "DE",
+    "startDatum": "2027-03-15T00:00:00Z",
+    "endDatum": "2027-03-19T00:00:00Z",
+    "beschreibung": "Weltleitmesse für Wasser, Wärme und Luft",
+    "website": "https://ish.messefrankfurt.com",
+    "veranstalter": "Messe Frankfurt",
+    "kategorien": ["HLK", "Gebäudetechnik"]
+  }
+]
