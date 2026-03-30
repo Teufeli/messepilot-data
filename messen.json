@@ -6,10 +6,10 @@
     "land": "DE",
     "startDatum": "2026-04-20T00:00:00Z",
     "endDatum": "2026-04-24T00:00:00Z",
-    "beschreibung": "Internationale Industriemesse",
+    "beschreibung": "Internationale Industriemesse für Innovation, Automation und Energie",
     "website": "https://www.hannovermesse.de",
     "veranstalter": "Deutsche Messe AG",
-    "kategorien": ["Industrie", "Automation"]
+    "kategorien": ["Industrie", "Automation", "Energie"]
   },
   {
     "id": "8F1B56A2-3D9F-4C6D-8890-2BBA3344C202",
@@ -22,5 +22,41 @@
     "website": "https://ish.messefrankfurt.com",
     "veranstalter": "Messe Frankfurt",
     "kategorien": ["HLK", "Gebäudetechnik"]
+  },
+  {
+    "id": "C1E8B8A4-91C3-4A7A-8C0B-6F2E1B77F303",
+    "name": "Chillventa",
+    "ort": "Nürnberg",
+    "land": "DE",
+    "startDatum": "2026-10-13T00:00:00Z",
+    "endDatum": "2026-10-15T00:00:00Z",
+    "beschreibung": "Internationale Fachmesse für Kälte-, Klima-, Lüftungs- und Wärmepumpentechnik",
+    "website": "https://www.chillventa.de",
+    "veranstalter": "NürnbergMesse",
+    "kategorien": ["HLK", "Klima", "Kälte"]
+  },
+  {
+    "id": "D2F94C11-5A9E-4C21-B6F3-8E91D9A4B404",
+    "name": "SPS – Smart Production Solutions",
+    "ort": "Nürnberg",
+    "land": "DE",
+    "startDatum": "2026-11-24T00:00:00Z",
+    "endDatum": "2026-11-26T00:00:00Z",
+    "beschreibung": "Fachmesse für industrielle Automatisierung und digitale Produktion",
+    "website": "https://sps.mesago.com",
+    "veranstalter": "Mesago Messe Frankfurt",
+    "kategorien": ["Automation", "Industrie", "Digitalisierung"]
+  },
+  {
+    "id": "E3A1F77B-6C44-4E5F-9F2C-9D72B1E5C505",
+    "name": "electronica",
+    "ort": "München",
+    "land": "DE",
+    "startDatum": "2026-11-10T00:00:00Z",
+    "endDatum": "2026-11-13T00:00:00Z",
+    "beschreibung": "Weltleitmesse für Elektronik, Komponenten und Systeme",
+    "website": "https://electronica.de",
+    "veranstalter": "Messe München",
+    "kategorien": ["Elektronik", "Sensorik", "Komponenten"]
   }
 ]
