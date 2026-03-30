@@ -1,894 +1,1064 @@
 [
   {
-    "id": "C6D647F5-81CE-4944-92D3-CBE30B82305F",
-    "name": "New York Industrial Expo",
-    "ort": "New York",
-    "land": "CN",
-    "startDatum": "2026-05-11T00:00:00Z",
-    "endDatum": "2026-05-27T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "",
-    "veranstalter": "",
+    "id": "4C7C130D-448B-4AE4-A747-ACA43D0C575E",
+    "name": "Hannover Tech & Industry Expo",
+    "ort": "Hannover",
+    "land": "DE",
+    "startDatum": "2026-04-20T00:00:00Z",
+    "endDatum": "2026-04-24T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Deutschland für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/de/messe-1",
+    "veranstalter": "Hannover Expo Group",
     "kategorien": [
+      "Industrie",
       "Automation",
+      "Fertigung"
+    ],
+    "breitengrad": 52.3759,
+    "laengengrad": 9.732
+  },
+  {
+    "id": "E87009B1-70AD-464A-ADAC-DBE506403657",
+    "name": "Paris Industrie & Automation",
+    "ort": "Paris",
+    "land": "FR",
+    "startDatum": "2026-05-12T00:00:00Z",
+    "endDatum": "2026-05-14T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Frankreich für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/fr/messe-2",
+    "veranstalter": "Paris Expo Group",
+    "kategorien": [
       "HLK",
+      "Gebäudetechnik",
       "Energie"
-    ]
+    ],
+    "breitengrad": 48.8566,
+    "laengengrad": 2.3522
   },
   {
-    "id": "1F6F8467-5B2E-4C06-A1FA-F6235B858DF3",
-    "name": "Shanghai Industrial Expo",
-    "ort": "Shanghai",
-    "land": "DE",
-    "startDatum": "2025-03-27T00:00:00Z",
-    "endDatum": "2025-05-27T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-1",
-    "veranstalter": "Shanghai Expo Group",
+    "id": "E4BC20E1-5F78-4C83-9282-1CB6A65189E6",
+    "name": "Milano HVAC & Building Systems",
+    "ort": "Mailand",
+    "land": "IT",
+    "startDatum": "2026-06-23T00:00:00Z",
+    "endDatum": "2026-06-25T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Italien für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/it/messe-3",
+    "veranstalter": "Mailand Expo Group",
     "kategorien": [
-      "Industrie"
-    ]
+      "Logistik",
+      "Supply Chain",
+      "Digitalisierung"
+    ],
+    "breitengrad": 45.4642,
+    "laengengrad": 9.19
   },
   {
-    "id": "515167D7-A23A-4B3A-9B0F-B4FD45371E56",
-    "name": "New York Automation World",
-    "ort": "New York",
-    "land": "DE",
-    "startDatum": "2026-05-27T00:00:00Z",
-    "endDatum": "2026-04-23T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-2",
-    "veranstalter": "New York Expo Group",
-    "kategorien": [
-      "Elektronik"
-    ]
-  },
-  {
-    "id": "8FC8AA97-30BE-4F0D-ADD2-C1F872EA24D4",
-    "name": "Zürich HVAC & Energy Fair",
-    "ort": "Zürich",
-    "land": "CN",
-    "startDatum": "2026-04-27T00:00:00Z",
-    "endDatum": "2026-05-23T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-3",
-    "veranstalter": "Zürich Expo Group",
-    "kategorien": [
-      "Automation",
-      "Industrie",
-      "HLK"
-    ]
-  },
-  {
-    "id": "475F6D81-C479-4986-89AF-DACFB7507C1B",
-    "name": "Sydney Automation World",
-    "ort": "Sydney",
-    "land": "CN",
-    "startDatum": "2027-09-22T00:00:00Z",
-    "endDatum": "2027-02-13T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-4",
-    "veranstalter": "Sydney Expo Group",
+    "id": "27DD66F7-CC7A-4CC5-8BFC-B9A9370674D7",
+    "name": "Barcelona Smart Factory Summit",
+    "ort": "Barcelona",
+    "land": "ES",
+    "startDatum": "2026-09-15T00:00:00Z",
+    "endDatum": "2026-09-17T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Spanien für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/es/messe-4",
+    "veranstalter": "Barcelona Expo Group",
     "kategorien": [
       "Elektronik",
-      "Industrie",
-      "Produktion"
-    ]
+      "Komponenten",
+      "Innovation"
+    ],
+    "breitengrad": 41.3874,
+    "laengengrad": 2.1686
   },
   {
-    "id": "9A56B673-AD23-4DF8-A1CC-F5A1CDE832DE",
-    "name": "Global Shanghai Tech Summit",
-    "ort": "Shanghai",
-    "land": "CN",
-    "startDatum": "2026-04-10T00:00:00Z",
-    "endDatum": "2026-09-25T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-5",
-    "veranstalter": "Shanghai Expo Group",
+    "id": "2581B675-7F6F-46A3-8574-50F4C43232CB",
+    "name": "Birmingham Advanced Engineering Expo",
+    "ort": "Birmingham",
+    "land": "GB",
+    "startDatum": "2026-10-06T00:00:00Z",
+    "endDatum": "2026-10-08T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Vereinigtes Königreich für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/gb/messe-5",
+    "veranstalter": "Birmingham Expo Group",
     "kategorien": [
+      "Maschinenbau",
+      "Produktion",
+      "Technologie"
+    ],
+    "breitengrad": 52.4862,
+    "laengengrad": -1.8904
+  },
+  {
+    "id": "5306123E-B684-4E87-A9DC-CFFD7F1B7B36",
+    "name": "Zürich Procurement & Supply Forum",
+    "ort": "Zürich",
+    "land": "CH",
+    "startDatum": "2026-11-10T00:00:00Z",
+    "endDatum": "2026-11-12T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Schweiz für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/ch/messe-6",
+    "veranstalter": "Zürich Expo Group",
+    "kategorien": [
+      "Infrastruktur",
       "Energie",
-      "Elektronik",
-      "Produktion"
-    ]
-  },
-  {
-    "id": "46797CC2-716C-4C28-BCF3-38319D0C1A5C",
-    "name": "Paris Industrial Expo 2026",
-    "ort": "Paris",
-    "land": "FR",
-    "startDatum": "2027-08-27T00:00:00Z",
-    "endDatum": "2027-07-24T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-6",
-    "veranstalter": "Paris Expo Group",
-    "kategorien": [
-      "Industrie",
-      "Logistik"
-    ]
-  },
-  {
-    "id": "07166359-2F11-45ED-928E-E8248A4B15FC",
-    "name": "Madrid Industrial Expo 2026",
-    "ort": "Madrid",
-    "land": "AE",
-    "startDatum": "2025-09-15T00:00:00Z",
-    "endDatum": "2025-04-28T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-7",
-    "veranstalter": "Madrid Expo Group",
-    "kategorien": [
-      "HLK"
-    ]
-  },
-  {
-    "id": "29523B2A-64CE-4F6A-B92C-2AA2C2B53314",
-    "name": "Zürich Manufacturing Week",
-    "ort": "Zürich",
-    "land": "ES",
-    "startDatum": "2025-01-11T00:00:00Z",
-    "endDatum": "2025-05-10T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-8",
-    "veranstalter": "Zürich Expo Group",
-    "kategorien": [
-      "Automation",
-      "Logistik",
       "Industrie"
-    ]
+    ],
+    "breitengrad": 47.3769,
+    "laengengrad": 8.5417
   },
   {
-    "id": "7B224BCD-A1E0-43FC-B411-5F5E564CE627",
-    "name": "Dubai Automation World",
-    "ort": "Dubai",
-    "land": "DE",
-    "startDatum": "2026-08-25T00:00:00Z",
-    "endDatum": "2026-07-19T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-9",
-    "veranstalter": "Dubai Expo Group",
+    "id": "9B3D1D26-0A6E-4EE0-B6CE-00CBE23B128F",
+    "name": "Wien Industry Innovation Days",
+    "ort": "Wien",
+    "land": "AT",
+    "startDatum": "2027-03-16T00:00:00Z",
+    "endDatum": "2027-03-18T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Österreich für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/at/messe-7",
+    "veranstalter": "Wien Expo Group",
     "kategorien": [
       "Industrie",
       "Automation",
-      "HLK"
-    ]
+      "Fertigung"
+    ],
+    "breitengrad": 48.2082,
+    "laengengrad": 16.3738
   },
   {
-    "id": "9636C5BB-E04A-462A-80F4-D543F663BC27",
-    "name": "Global Paris Tech Summit",
-    "ort": "Paris",
-    "land": "BR",
-    "startDatum": "2025-03-19T00:00:00Z",
-    "endDatum": "2025-02-20T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "",
-    "veranstalter": "Paris Expo Group",
-    "kategorien": [
-      "Elektronik",
-      "Automation"
-    ]
-  },
-  {
-    "id": "8B2C09D2-3953-4B3A-B77C-93CC14A86CFA",
-    "name": "Global Berlin Tech Summit",
-    "ort": "Berlin",
-    "land": "ES",
-    "startDatum": "2025-08-18T00:00:00Z",
-    "endDatum": "2025-05-20T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-11",
-    "veranstalter": "Berlin Expo Group",
-    "kategorien": [
-      "Automation"
-    ]
-  },
-  {
-    "id": "27246FAA-5F9A-4DF6-BEFB-D09A3B0760AB",
-    "name": "Berlin Manufacturing Week",
-    "ort": "Berlin",
-    "land": "CH",
-    "startDatum": "2025-09-16T00:00:00Z",
-    "endDatum": "2025-08-25T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-12",
-    "veranstalter": "Berlin Expo Group",
-    "kategorien": [
-      "Logistik"
-    ]
-  },
-  {
-    "id": "DFBC31A2-EFBA-4739-950B-280987A8A463",
-    "name": "São Paulo HVAC & Energy Fair",
-    "ort": "São Paulo",
-    "land": "JP",
-    "startDatum": "2027-05-18T00:00:00Z",
-    "endDatum": "2027-06-17T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-13",
-    "veranstalter": "São Paulo Expo Group",
-    "kategorien": [
-      "HLK"
-    ]
-  },
-  {
-    "id": "87608946-28D7-45CE-8502-2FCE92AEC49B",
-    "name": "New York Manufacturing Week",
-    "ort": "New York",
-    "land": "CN",
-    "startDatum": "2025-02-20T00:00:00Z",
-    "endDatum": "2025-01-23T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-14",
-    "veranstalter": "New York Expo Group",
-    "kategorien": [
-      "Logistik",
-      "HLK"
-    ]
-  },
-  {
-    "id": "027C2A56-1D6B-46FA-8C5A-106B06E5FBCB",
-    "name": "Global Madrid Tech Summit",
-    "ort": "Madrid",
-    "land": "BR",
-    "startDatum": "2026-04-11T00:00:00Z",
-    "endDatum": "2026-02-22T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-15",
-    "veranstalter": "",
-    "kategorien": [
-      "Industrie"
-    ]
-  },
-  {
-    "id": "58629A2D-71E1-434F-AA17-FFD4598FB143",
-    "name": "New York Automation World",
-    "ort": "New York",
-    "land": "US",
-    "startDatum": "2026-06-24T00:00:00Z",
-    "endDatum": "2026-09-13T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-16",
-    "veranstalter": "New York Expo Group",
-    "kategorien": [
-      "Energie"
-    ]
-  },
-  {
-    "id": "2F0C11F3-3D0A-41AA-BB5F-7F5CB93DE218",
-    "name": "Dubai Industrial Expo",
-    "ort": "Dubai",
-    "land": "DE",
-    "startDatum": "2027-03-21T00:00:00Z",
-    "endDatum": "2027-07-11T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-17",
-    "veranstalter": "Dubai Expo Group",
-    "kategorien": [
-      "Logistik"
-    ]
-  },
-  {
-    "id": "CC8ECE5B-4123-45DF-BCA1-BAA8A91FE59C",
-    "name": "Global Sydney Tech Summit",
-    "ort": "Sydney",
-    "land": "BR",
-    "startDatum": "2025-07-27T00:00:00Z",
-    "endDatum": "2025-08-25T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-18",
-    "veranstalter": "Sydney Expo Group",
-    "kategorien": [
-      "Automation",
-      "HLK"
-    ]
-  },
-  {
-    "id": "A8D3B548-CA7E-4CE3-A88C-9DBAADCB6FB0",
-    "name": "Paris Industrial Expo",
-    "ort": "Paris",
-    "land": "AE",
-    "startDatum": "2026-02-12T00:00:00Z",
-    "endDatum": "2026-06-26T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-19",
-    "veranstalter": "Paris Expo Group",
-    "kategorien": [
-      "Logistik"
-    ]
-  },
-  {
-    "id": "DC906FE9-A30A-4B69-9575-6159892D20AB",
-    "name": "Paris Automation World",
-    "ort": "Paris",
-    "land": "ES",
-    "startDatum": "2026-02-20T00:00:00Z",
-    "endDatum": "2026-02-28T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "",
-    "veranstalter": "Paris Expo Group",
-    "kategorien": [
-      "Automation"
-    ]
-  },
-  {
-    "id": "1251C272-326C-4EA0-9762-6A648B278AC6",
-    "name": "Global Sydney Tech Summit",
-    "ort": "Sydney",
-    "land": "JP",
-    "startDatum": "2027-04-22T00:00:00Z",
-    "endDatum": "2027-04-26T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-21",
-    "veranstalter": "Sydney Expo Group",
-    "kategorien": [
-      "Elektronik"
-    ]
-  },
-  {
-    "id": "142E4A21-01CB-4CD7-B750-6A0ECCBC2512",
-    "name": "Sydney Industrial Expo",
-    "ort": "Sydney",
-    "land": "BR",
-    "startDatum": "2026-09-25T00:00:00Z",
-    "endDatum": "2026-05-26T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-22",
-    "veranstalter": "Sydney Expo Group",
-    "kategorien": [
-      "Logistik"
-    ]
-  },
-  {
-    "id": "E8A0B127-BBC4-4196-8B67-BC570C22040B",
-    "name": "Global Dubai Tech Summit",
-    "ort": "Dubai",
-    "land": "CH",
-    "startDatum": "2026-01-28T00:00:00Z",
-    "endDatum": "2026-07-10T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-23",
-    "veranstalter": "Dubai Expo Group",
-    "kategorien": [
-      "Elektronik",
-      "Automation"
-    ]
-  },
-  {
-    "id": "21A9320D-8EEE-46DF-9BB4-CA590DC3A9D9",
-    "name": "Zürich Industrial Expo",
-    "ort": "Zürich",
-    "land": "FR",
-    "startDatum": "2027-08-21T00:00:00Z",
-    "endDatum": "2027-01-25T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-24",
-    "veranstalter": "Zürich Expo Group",
-    "kategorien": [
-      "Industrie",
-      "HLK"
-    ]
-  },
-  {
-    "id": "D8D489AE-41A2-44A1-8E99-8B6793A520D4",
-    "name": "Paris Industrial Expo",
-    "ort": "Paris",
-    "land": "BR",
-    "startDatum": "2027-09-13T00:00:00Z",
+    "id": "1CFDC205-C276-4206-B2DD-D82F0F862714",
+    "name": "Rotterdam Logistics & Port Tech",
+    "ort": "Rotterdam",
+    "land": "NL",
+    "startDatum": "2027-04-13T00:00:00Z",
     "endDatum": "2027-04-15T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-25",
-    "veranstalter": "Paris Expo Group",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Niederlande für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/nl/messe-8",
+    "veranstalter": "Rotterdam Expo Group",
+    "kategorien": [
+      "HLK",
+      "Gebäudetechnik",
+      "Energie"
+    ],
+    "breitengrad": 51.9244,
+    "laengengrad": 4.4777
+  },
+  {
+    "id": "42AC9832-DAB2-4776-8FA7-C4155AEFCD5F",
+    "name": "Brussels Smart Manufacturing Week",
+    "ort": "Brüssel",
+    "land": "BE",
+    "startDatum": "2027-05-18T00:00:00Z",
+    "endDatum": "2027-05-20T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Belgien für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/be/messe-9",
+    "veranstalter": "Brüssel Expo Group",
+    "kategorien": [
+      "Logistik",
+      "Supply Chain",
+      "Digitalisierung"
+    ],
+    "breitengrad": 50.8503,
+    "laengengrad": 4.3517
+  },
+  {
+    "id": "2D174D3A-2C2C-484A-ADD4-BBD80D1D66BF",
+    "name": "Luxembourg Digital Industry Forum",
+    "ort": "Luxemburg",
+    "land": "LU",
+    "startDatum": "2027-09-21T00:00:00Z",
+    "endDatum": "2027-09-23T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Luxemburg für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/lu/messe-10",
+    "veranstalter": "Luxemburg Expo Group",
+    "kategorien": [
+      "Elektronik",
+      "Komponenten",
+      "Innovation"
+    ],
+    "breitengrad": 49.6116,
+    "laengengrad": 6.1319
+  },
+  {
+    "id": "898E4002-FED5-4E08-AE9C-37053A139841",
+    "name": "Stockholm Automation Expo",
+    "ort": "Stockholm",
+    "land": "SE",
+    "startDatum": "2026-04-20T00:00:00Z",
+    "endDatum": "2026-04-24T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Schweden für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/se/messe-11",
+    "veranstalter": "Stockholm Expo Group",
+    "kategorien": [
+      "Maschinenbau",
+      "Produktion",
+      "Technologie"
+    ],
+    "breitengrad": 59.3293,
+    "laengengrad": 18.0686
+  },
+  {
+    "id": "5A1AA611-F24B-431E-8F7A-A08108ADDE92",
+    "name": "Oslo Energy & Industry Fair",
+    "ort": "Oslo",
+    "land": "NO",
+    "startDatum": "2026-05-12T00:00:00Z",
+    "endDatum": "2026-05-14T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Norwegen für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/no/messe-12",
+    "veranstalter": "Oslo Expo Group",
+    "kategorien": [
+      "Infrastruktur",
+      "Energie",
+      "Industrie"
+    ],
+    "breitengrad": 59.9139,
+    "laengengrad": 10.7522
+  },
+  {
+    "id": "7B4BF7DE-65B3-4472-ADC9-820ADD1C7914",
+    "name": "Copenhagen Building Tech Expo",
+    "ort": "Kopenhagen",
+    "land": "DK",
+    "startDatum": "2026-06-23T00:00:00Z",
+    "endDatum": "2026-06-25T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Dänemark für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/dk/messe-13",
+    "veranstalter": "Kopenhagen Expo Group",
     "kategorien": [
       "Industrie",
-      "Elektronik",
-      "Automation"
-    ]
-  },
-  {
-    "id": "7CED7AA3-66FC-4F1E-92BD-A7FD3D103F95",
-    "name": "São Paulo Automation World",
-    "ort": "São Paulo",
-    "land": "FR",
-    "startDatum": "2027-02-19T00:00:00Z",
-    "endDatum": "2027-03-28T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-26",
-    "veranstalter": "São Paulo Expo Group",
-    "kategorien": [
-      "Energie",
-      "HLK",
-      "Elektronik"
-    ]
-  },
-  {
-    "id": "269ADA70-B7A3-4F4C-8C63-C08657BFC17A",
-    "name": "São Paulo HVAC & Energy Fair",
-    "ort": "São Paulo",
-    "land": "DE",
-    "startDatum": "2026-06-13T00:00:00Z",
-    "endDatum": "2026-09-10T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-27",
-    "veranstalter": "São Paulo Expo Group",
-    "kategorien": [
-      "HLK",
       "Automation",
-      "Elektronik"
-    ]
+      "Fertigung"
+    ],
+    "breitengrad": 55.6761,
+    "laengengrad": 12.5683
   },
   {
-    "id": "92AB9434-6870-4AC9-9443-DDF073556726",
-    "name": "Global Shanghai Tech Summit",
-    "ort": "Shanghai",
-    "land": "AE",
-    "startDatum": "2025-06-13T00:00:00Z",
-    "endDatum": "2025-05-12T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-28",
-    "veranstalter": "Shanghai Expo Group",
+    "id": "58C58376-7D89-4C20-BFFD-01205A26CBB4",
+    "name": "Helsinki Industrial Solutions",
+    "ort": "Helsinki",
+    "land": "FI",
+    "startDatum": "2026-09-15T00:00:00Z",
+    "endDatum": "2026-09-17T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Finnland für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/fi/messe-14",
+    "veranstalter": "Helsinki Expo Group",
+    "kategorien": [
+      "HLK",
+      "Gebäudetechnik",
+      "Energie"
+    ],
+    "breitengrad": 60.1699,
+    "laengengrad": 24.9384
+  },
+  {
+    "id": "C26E2345-CD07-4D2C-B5A5-BA85EEF62669",
+    "name": "Dublin Engineering & Sourcing Fair",
+    "ort": "Dublin",
+    "land": "IE",
+    "startDatum": "2026-10-06T00:00:00Z",
+    "endDatum": "2026-10-08T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Irland für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/ie/messe-15",
+    "veranstalter": "Dublin Expo Group",
+    "kategorien": [
+      "Logistik",
+      "Supply Chain",
+      "Digitalisierung"
+    ],
+    "breitengrad": 53.3498,
+    "laengengrad": -6.2603
+  },
+  {
+    "id": "34D21163-5514-488C-AB0C-57F77EA2A596",
+    "name": "Lisbon Industry 4.0 Expo",
+    "ort": "Lissabon",
+    "land": "PT",
+    "startDatum": "2026-11-10T00:00:00Z",
+    "endDatum": "2026-11-12T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Portugal für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/pt/messe-16",
+    "veranstalter": "Lissabon Expo Group",
     "kategorien": [
       "Elektronik",
-      "Energie"
-    ]
+      "Komponenten",
+      "Innovation"
+    ],
+    "breitengrad": 38.7223,
+    "laengengrad": -9.1393
   },
   {
-    "id": "BEE14650-5DCE-44F9-B577-B64C53550C10",
-    "name": "São Paulo Industrial Expo",
-    "ort": "São Paulo",
-    "land": "BR",
-    "startDatum": "2027-06-15T00:00:00Z",
-    "endDatum": "2027-09-12T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-29",
-    "veranstalter": "São Paulo Expo Group",
+    "id": "B1E56BF0-3B0B-4E9C-B7C9-07F3B03726CC",
+    "name": "Warsaw HVAC & Supply Chain Expo",
+    "ort": "Warschau",
+    "land": "PL",
+    "startDatum": "2027-03-16T00:00:00Z",
+    "endDatum": "2027-03-18T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Polen für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/pl/messe-17",
+    "veranstalter": "Warschau Expo Group",
     "kategorien": [
-      "Produktion"
-    ]
+      "Maschinenbau",
+      "Produktion",
+      "Technologie"
+    ],
+    "breitengrad": 52.2297,
+    "laengengrad": 21.0122
   },
   {
-    "id": "C3B3B56F-7FD5-4B37-AF2C-DE2DC7EC0DD4",
-    "name": "Sydney HVAC & Energy Fair",
-    "ort": "Sydney",
-    "land": "ES",
-    "startDatum": "2025-01-28T00:00:00Z",
-    "endDatum": "2025-09-16T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "",
-    "veranstalter": "",
+    "id": "9155CB62-C59F-4454-AD7A-9F5D6C9099B4",
+    "name": "Brno Engineering & Production Fair",
+    "ort": "Brünn",
+    "land": "CZ",
+    "startDatum": "2027-04-13T00:00:00Z",
+    "endDatum": "2027-04-15T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Tschechien für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/cz/messe-18",
+    "veranstalter": "Brünn Expo Group",
     "kategorien": [
+      "Infrastruktur",
       "Energie",
       "Industrie"
-    ]
+    ],
+    "breitengrad": 49.1951,
+    "laengengrad": 16.6068
   },
   {
-    "id": "95597BF4-1635-439E-A442-3DCAD280F03F",
-    "name": "Dubai Industrial Expo 2026",
-    "ort": "Dubai",
-    "land": "CH",
-    "startDatum": "2027-05-26T00:00:00Z",
-    "endDatum": "2027-08-26T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-31",
-    "veranstalter": "Dubai Expo Group",
-    "kategorien": [
-      "Produktion"
-    ]
-  },
-  {
-    "id": "B18560C6-8DF8-420F-9559-657F9CEB5EF6",
-    "name": "Dubai Automation World",
-    "ort": "Dubai",
-    "land": "BR",
-    "startDatum": "2025-07-23T00:00:00Z",
-    "endDatum": "2025-06-17T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-32",
-    "veranstalter": "Dubai Expo Group",
+    "id": "ABE258F3-6795-41EE-B032-FDDBA6C32E3D",
+    "name": "Bratislava Manufacturing Summit",
+    "ort": "Bratislava",
+    "land": "SK",
+    "startDatum": "2027-05-18T00:00:00Z",
+    "endDatum": "2027-05-20T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Slowakei für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/sk/messe-19",
+    "veranstalter": "Bratislava Expo Group",
     "kategorien": [
       "Industrie",
-      "Elektronik",
-      "Automation"
-    ]
-  },
-  {
-    "id": "BB802221-4EA5-478A-A933-CBA7AB4F0422",
-    "name": "São Paulo Industrial Expo 2026",
-    "ort": "São Paulo",
-    "land": "DE",
-    "startDatum": "2027-08-19T00:00:00Z",
-    "endDatum": "2027-08-18T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-33",
-    "veranstalter": "São Paulo Expo Group",
-    "kategorien": [
-      "Energie",
-      "Automation"
-    ]
-  },
-  {
-    "id": "D5A78E4C-F45F-4AE3-B76B-02B92A8E7074",
-    "name": "Dubai Manufacturing Week",
-    "ort": "Dubai",
-    "land": "FR",
-    "startDatum": "2027-08-25T00:00:00Z",
-    "endDatum": "2027-07-12T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-34",
-    "veranstalter": "Dubai Expo Group",
-    "kategorien": [
-      "Logistik",
-      "HLK"
-    ]
-  },
-  {
-    "id": "0209E2A8-6A74-42B6-97C9-3B139AED7506",
-    "name": "New York Industrial Expo 2026",
-    "ort": "New York",
-    "land": "BR",
-    "startDatum": "2027-04-20T00:00:00Z",
-    "endDatum": "2027-04-18T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-35",
-    "veranstalter": "New York Expo Group",
-    "kategorien": [
-      "HLK",
-      "Industrie",
-      "Produktion"
-    ]
-  },
-  {
-    "id": "37822E16-95AA-48CA-A48B-5A15148475F5",
-    "name": "São Paulo Industrial Expo 2026",
-    "ort": "São Paulo",
-    "land": "DE",
-    "startDatum": "2026-07-28T00:00:00Z",
-    "endDatum": "2026-05-27T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-36",
-    "veranstalter": "São Paulo Expo Group",
-    "kategorien": [
-      "Elektronik"
-    ]
-  },
-  {
-    "id": "6AEAAB55-B461-4C01-9063-D6C0EE36F5D5",
-    "name": "Berlin HVAC & Energy Fair",
-    "ort": "Berlin",
-    "land": "CN",
-    "startDatum": "2027-08-26T00:00:00Z",
-    "endDatum": "2027-01-24T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-37",
-    "veranstalter": "Berlin Expo Group",
-    "kategorien": [
-      "Produktion"
-    ]
-  },
-  {
-    "id": "0F4FCF34-740F-426B-80AE-49D9841B2C04",
-    "name": "Global Dubai Tech Summit",
-    "ort": "Dubai",
-    "land": "US",
-    "startDatum": "2026-02-23T00:00:00Z",
-    "endDatum": "2026-01-25T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-38",
-    "veranstalter": "Dubai Expo Group",
-    "kategorien": [
-      "Produktion",
-      "HLK"
-    ]
-  },
-  {
-    "id": "D3C7B285-BE0A-4207-8788-7C9F005B8D2F",
-    "name": "New York Manufacturing Week",
-    "ort": "New York",
-    "land": "CH",
-    "startDatum": "2026-04-23T00:00:00Z",
-    "endDatum": "2026-08-24T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-39",
-    "veranstalter": "New York Expo Group",
-    "kategorien": [
-      "Produktion",
-      "Elektronik",
-      "Logistik"
-    ]
-  },
-  {
-    "id": "718D298A-2120-4827-8EB7-7DBACFD1FECC",
-    "name": "Madrid HVAC & Energy Fair",
-    "ort": "Madrid",
-    "land": "JP",
-    "startDatum": "2025-05-11T00:00:00Z",
-    "endDatum": "2025-05-15T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "",
-    "veranstalter": "Madrid Expo Group",
-    "kategorien": [
-      "Produktion",
-      "HLK"
-    ]
-  },
-  {
-    "id": "3A813751-CAA0-44A8-83A6-81D0836D8E14",
-    "name": "Shanghai Industrial Expo",
-    "ort": "Shanghai",
-    "land": "AE",
-    "startDatum": "2027-08-22T00:00:00Z",
-    "endDatum": "2027-07-20T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-41",
-    "veranstalter": "Shanghai Expo Group",
-    "kategorien": [
-      "Produktion",
-      "HLK"
-    ]
-  },
-  {
-    "id": "01C6C228-72B6-46FA-AF49-04948E1D5E58",
-    "name": "Dubai Manufacturing Week",
-    "ort": "Dubai",
-    "land": "CH",
-    "startDatum": "2027-03-27T00:00:00Z",
-    "endDatum": "2027-04-10T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-42",
-    "veranstalter": "Dubai Expo Group",
-    "kategorien": [
-      "Energie"
-    ]
-  },
-  {
-    "id": "95A41F07-E63E-4D25-8B08-76BA57707B01",
-    "name": "New York Industrial Expo 2026",
-    "ort": "New York",
-    "land": "FR",
-    "startDatum": "2026-03-25T00:00:00Z",
-    "endDatum": "2026-06-16T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-43",
-    "veranstalter": "New York Expo Group",
-    "kategorien": [
-      "Energie",
-      "Logistik"
-    ]
-  },
-  {
-    "id": "3657724B-6CE2-45F0-890B-B37FC578FA37",
-    "name": "Dubai Industrial Expo 2026",
-    "ort": "Dubai",
-    "land": "FR",
-    "startDatum": "2026-05-13T00:00:00Z",
-    "endDatum": "2026-01-27T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-44",
-    "veranstalter": "Dubai Expo Group",
-    "kategorien": [
-      "Energie",
-      "HLK",
-      "Logistik"
-    ]
-  },
-  {
-    "id": "78546CC6-D5EE-4173-9AEB-E72B0A38B565",
-    "name": "São Paulo Manufacturing Week",
-    "ort": "São Paulo",
-    "land": "US",
-    "startDatum": "2027-09-23T00:00:00Z",
-    "endDatum": "2027-05-17T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-45",
-    "veranstalter": "",
-    "kategorien": [
-      "Automation"
-    ]
-  },
-  {
-    "id": "935EC13F-87F6-40AC-AFD9-864BC6006C60",
-    "name": "São Paulo Automation World",
-    "ort": "São Paulo",
-    "land": "BR",
-    "startDatum": "2025-05-12T00:00:00Z",
-    "endDatum": "2025-01-27T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-46",
-    "veranstalter": "São Paulo Expo Group",
-    "kategorien": [
-      "Logistik",
-      "Energie"
-    ]
-  },
-  {
-    "id": "FCE4D624-21FC-443F-BDE6-65B37569FFDD",
-    "name": "Dubai Manufacturing Week",
-    "ort": "Dubai",
-    "land": "CH",
-    "startDatum": "2027-06-23T00:00:00Z",
-    "endDatum": "2027-09-24T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-47",
-    "veranstalter": "Dubai Expo Group",
-    "kategorien": [
-      "HLK",
-      "Elektronik"
-    ]
-  },
-  {
-    "id": "EC192F18-12D0-464B-A906-7FC0D9F7516D",
-    "name": "New York Manufacturing Week",
-    "ort": "New York",
-    "land": "AE",
-    "startDatum": "2026-02-23T00:00:00Z",
-    "endDatum": "2026-07-26T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-48",
-    "veranstalter": "New York Expo Group",
-    "kategorien": [
-      "Automation"
-    ]
-  },
-  {
-    "id": "853C82F4-0ADA-4D14-8863-86BD0080CDDD",
-    "name": "Global São Paulo Tech Summit",
-    "ort": "São Paulo",
-    "land": "US",
-    "startDatum": "2025-04-28T00:00:00Z",
-    "endDatum": "2025-03-14T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-49",
-    "veranstalter": "São Paulo Expo Group",
-    "kategorien": [
-      "Energie"
-    ]
-  },
-  {
-    "id": "C00A44EE-AE9C-4B56-9D02-F4BD36C95D62",
-    "name": "Global Madrid Tech Summit",
-    "ort": "Madrid",
-    "land": "CH",
-    "startDatum": "2025-03-16T00:00:00Z",
-    "endDatum": "2025-09-17T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "",
-    "veranstalter": "Madrid Expo Group",
-    "kategorien": [
-      "HLK",
-      "Automation"
-    ]
-  },
-  {
-    "id": "CF734ED5-C84A-4A5B-9F9C-B91FF69CEF2A",
-    "name": "Tokyo Industrial Expo 2026",
-    "ort": "Tokyo",
-    "land": "DE",
-    "startDatum": "2025-09-16T00:00:00Z",
-    "endDatum": "2025-06-10T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-51",
-    "veranstalter": "Tokyo Expo Group",
-    "kategorien": [
-      "Logistik",
-      "Produktion"
-    ]
-  },
-  {
-    "id": "7D391C89-313B-4937-A2E6-1BC611AB07ED",
-    "name": "Global Shanghai Tech Summit",
-    "ort": "Shanghai",
-    "land": "JP",
-    "startDatum": "2026-04-16T00:00:00Z",
-    "endDatum": "2026-01-26T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-52",
-    "veranstalter": "Shanghai Expo Group",
-    "kategorien": [
-      "Logistik",
-      "HLK",
-      "Produktion"
-    ]
-  },
-  {
-    "id": "9A79D7C9-0E55-4C63-A7C0-84089C6E4AF0",
-    "name": "Tokyo Manufacturing Week",
-    "ort": "Tokyo",
-    "land": "JP",
-    "startDatum": "2027-01-22T00:00:00Z",
-    "endDatum": "2027-04-28T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-53",
-    "veranstalter": "Tokyo Expo Group",
-    "kategorien": [
-      "Elektronik"
-    ]
-  },
-  {
-    "id": "9FF01F08-1A78-42C0-87F4-3C35BAB75E1E",
-    "name": "Berlin Automation World",
-    "ort": "Berlin",
-    "land": "AU",
-    "startDatum": "2026-05-22T00:00:00Z",
-    "endDatum": "2026-03-16T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-54",
-    "veranstalter": "Berlin Expo Group",
-    "kategorien": [
-      "Industrie"
-    ]
-  },
-  {
-    "id": "53363B92-DC0E-438C-BA7F-07BA41306985",
-    "name": "Madrid Industrial Expo",
-    "ort": "Madrid",
-    "land": "AU",
-    "startDatum": "2026-09-17T00:00:00Z",
-    "endDatum": "2026-09-28T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-55",
-    "veranstalter": "Madrid Expo Group",
-    "kategorien": [
-      "Produktion",
-      "Logistik"
-    ]
-  },
-  {
-    "id": "E09657FD-0D1D-4288-BD4E-36D4A7F9E6DC",
-    "name": "Dubai Industrial Expo",
-    "ort": "Dubai",
-    "land": "BR",
-    "startDatum": "2025-02-22T00:00:00Z",
-    "endDatum": "2025-07-16T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-56",
-    "veranstalter": "Dubai Expo Group",
-    "kategorien": [
-      "HLK"
-    ]
-  },
-  {
-    "id": "D315E8AA-E24F-411A-8809-FCF8F48E2794",
-    "name": "Berlin Automation World",
-    "ort": "Berlin",
-    "land": "ES",
-    "startDatum": "2025-08-16T00:00:00Z",
-    "endDatum": "2025-03-22T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-57",
-    "veranstalter": "Berlin Expo Group",
-    "kategorien": [
-      "HLK",
-      "Energie"
-    ]
-  },
-  {
-    "id": "37A78189-355E-4B39-AA13-42F0F97023EC",
-    "name": "Zürich Industrial Expo",
-    "ort": "Zürich",
-    "land": "CN",
-    "startDatum": "2026-04-26T00:00:00Z",
-    "endDatum": "2026-05-10T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-58",
-    "veranstalter": "Zürich Expo Group",
-    "kategorien": [
-      "Elektronik",
-      "HLK",
-      "Energie"
-    ]
-  },
-  {
-    "id": "2EB8968E-93B6-4191-AFD8-891CB63ADE15",
-    "name": "São Paulo Industrial Expo 2026",
-    "ort": "São Paulo",
-    "land": "US",
-    "startDatum": "2027-04-22T00:00:00Z",
-    "endDatum": "2027-01-10T00:00:00Z",
-    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
-    "website": "https://example.com/event-59",
-    "veranstalter": "São Paulo Expo Group",
-    "kategorien": [
       "Automation",
+      "Fertigung"
+    ],
+    "breitengrad": 48.1486,
+    "laengengrad": 17.1077
+  },
+  {
+    "id": "7BF419A5-F8C2-4F99-9E8B-864C6B67EE36",
+    "name": "Budapest Industry & Mobility Expo",
+    "ort": "Budapest",
+    "land": "HU",
+    "startDatum": "2027-09-21T00:00:00Z",
+    "endDatum": "2027-09-23T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Ungarn für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/hu/messe-20",
+    "veranstalter": "Budapest Expo Group",
+    "kategorien": [
+      "HLK",
+      "Gebäudetechnik",
+      "Energie"
+    ],
+    "breitengrad": 47.4979,
+    "laengengrad": 19.0402
+  },
+  {
+    "id": "E475552C-211E-4AA2-9EF4-E751AEAB707A",
+    "name": "Ljubljana Smart Industry Days",
+    "ort": "Ljubljana",
+    "land": "SI",
+    "startDatum": "2026-04-20T00:00:00Z",
+    "endDatum": "2026-04-24T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Slowenien für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/si/messe-21",
+    "veranstalter": "Ljubljana Expo Group",
+    "kategorien": [
+      "Logistik",
+      "Supply Chain",
+      "Digitalisierung"
+    ],
+    "breitengrad": 46.0569,
+    "laengengrad": 14.5058
+  },
+  {
+    "id": "B826F425-9BB4-4340-903E-78F7879733F3",
+    "name": "Zagreb Tech & Factory Expo",
+    "ort": "Zagreb",
+    "land": "HR",
+    "startDatum": "2026-05-12T00:00:00Z",
+    "endDatum": "2026-05-14T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Kroatien für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/hr/messe-22",
+    "veranstalter": "Zagreb Expo Group",
+    "kategorien": [
       "Elektronik",
+      "Komponenten",
+      "Innovation"
+    ],
+    "breitengrad": 45.815,
+    "laengengrad": 15.9819
+  },
+  {
+    "id": "BC157FA5-F633-4972-A269-98273D644CB3",
+    "name": "Belgrade Industrial Innovation Fair",
+    "ort": "Belgrad",
+    "land": "RS",
+    "startDatum": "2026-06-23T00:00:00Z",
+    "endDatum": "2026-06-25T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Serbien für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/rs/messe-23",
+    "veranstalter": "Belgrad Expo Group",
+    "kategorien": [
+      "Maschinenbau",
+      "Produktion",
+      "Technologie"
+    ],
+    "breitengrad": 44.7866,
+    "laengengrad": 20.4489
+  },
+  {
+    "id": "B5E0715D-11D1-42A1-BEC0-DA42CE4E1109",
+    "name": "Bucharest Engineering & Automation",
+    "ort": "Bukarest",
+    "land": "RO",
+    "startDatum": "2026-09-15T00:00:00Z",
+    "endDatum": "2026-09-17T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Rumänien für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/ro/messe-24",
+    "veranstalter": "Bukarest Expo Group",
+    "kategorien": [
+      "Infrastruktur",
+      "Energie",
       "Industrie"
-    ]
+    ],
+    "breitengrad": 44.4268,
+    "laengengrad": 26.1025
+  },
+  {
+    "id": "D9D4F887-8AB0-4201-A9AE-06720F38F6A3",
+    "name": "Sofia Industry Systems Expo",
+    "ort": "Sofia",
+    "land": "BG",
+    "startDatum": "2026-10-06T00:00:00Z",
+    "endDatum": "2026-10-08T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Bulgarien für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/bg/messe-25",
+    "veranstalter": "Sofia Expo Group",
+    "kategorien": [
+      "Industrie",
+      "Automation",
+      "Fertigung"
+    ],
+    "breitengrad": 42.6977,
+    "laengengrad": 23.3219
+  },
+  {
+    "id": "65EB1A96-61C6-4593-8900-0B8BBF5C0668",
+    "name": "Athens Energy & Infrastructure Expo",
+    "ort": "Athen",
+    "land": "GR",
+    "startDatum": "2026-11-10T00:00:00Z",
+    "endDatum": "2026-11-12T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Griechenland für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/gr/messe-26",
+    "veranstalter": "Athen Expo Group",
+    "kategorien": [
+      "HLK",
+      "Gebäudetechnik",
+      "Energie"
+    ],
+    "breitengrad": 37.9838,
+    "laengengrad": 23.7275
+  },
+  {
+    "id": "71998042-9AB5-42F5-8056-38C618BFAC1D",
+    "name": "Istanbul Manufacturing World",
+    "ort": "Istanbul",
+    "land": "TR",
+    "startDatum": "2027-03-16T00:00:00Z",
+    "endDatum": "2027-03-18T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Türkei für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/tr/messe-27",
+    "veranstalter": "Istanbul Expo Group",
+    "kategorien": [
+      "Logistik",
+      "Supply Chain",
+      "Digitalisierung"
+    ],
+    "breitengrad": 41.0082,
+    "laengengrad": 28.9784
+  },
+  {
+    "id": "3C755EB0-395F-4978-B3EF-13E4E13FFC56",
+    "name": "Tallinn Smart Production Forum",
+    "ort": "Tallinn",
+    "land": "EE",
+    "startDatum": "2027-04-13T00:00:00Z",
+    "endDatum": "2027-04-15T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Estland für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/ee/messe-28",
+    "veranstalter": "Tallinn Expo Group",
+    "kategorien": [
+      "Elektronik",
+      "Komponenten",
+      "Innovation"
+    ],
+    "breitengrad": 59.437,
+    "laengengrad": 24.7536
+  },
+  {
+    "id": "1EFA1DDC-D137-4553-99AB-73DBC7051D51",
+    "name": "Riga Logistics Technology Expo",
+    "ort": "Riga",
+    "land": "LV",
+    "startDatum": "2027-05-18T00:00:00Z",
+    "endDatum": "2027-05-20T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Lettland für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/lv/messe-29",
+    "veranstalter": "Riga Expo Group",
+    "kategorien": [
+      "Maschinenbau",
+      "Produktion",
+      "Technologie"
+    ],
+    "breitengrad": 56.9496,
+    "laengengrad": 24.1052
+  },
+  {
+    "id": "F74AA19C-E442-44C6-B6FB-B1FD546673BC",
+    "name": "Vilnius Industrial Components Fair",
+    "ort": "Vilnius",
+    "land": "LT",
+    "startDatum": "2027-09-21T00:00:00Z",
+    "endDatum": "2027-09-23T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Litauen für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/lt/messe-30",
+    "veranstalter": "Vilnius Expo Group",
+    "kategorien": [
+      "Infrastruktur",
+      "Energie",
+      "Industrie"
+    ],
+    "breitengrad": 54.6872,
+    "laengengrad": 25.2797
+  },
+  {
+    "id": "FD362B57-1D8E-4B9F-85D8-70E266D5EBA1",
+    "name": "Kyiv Rebuild & Industrial Systems",
+    "ort": "Kyjiw",
+    "land": "UA",
+    "startDatum": "2026-04-20T00:00:00Z",
+    "endDatum": "2026-04-24T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Ukraine für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/ua/messe-31",
+    "veranstalter": "Kyjiw Expo Group",
+    "kategorien": [
+      "Industrie",
+      "Automation",
+      "Fertigung"
+    ],
+    "breitengrad": 50.4501,
+    "laengengrad": 30.5234
+  },
+  {
+    "id": "199154FE-D317-4903-86E7-D0E2F287EE2B",
+    "name": "Chicago Global Manufacturing Expo",
+    "ort": "Chicago",
+    "land": "US",
+    "startDatum": "2026-05-12T00:00:00Z",
+    "endDatum": "2026-05-14T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in USA für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/us/messe-32",
+    "veranstalter": "Chicago Expo Group",
+    "kategorien": [
+      "HLK",
+      "Gebäudetechnik",
+      "Energie"
+    ],
+    "breitengrad": 41.8781,
+    "laengengrad": -87.6298
+  },
+  {
+    "id": "3A1726DD-5850-4266-8389-21E91F6646AC",
+    "name": "Toronto Industrial Technology Show",
+    "ort": "Toronto",
+    "land": "CA",
+    "startDatum": "2026-06-23T00:00:00Z",
+    "endDatum": "2026-06-25T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Kanada für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/ca/messe-33",
+    "veranstalter": "Toronto Expo Group",
+    "kategorien": [
+      "Logistik",
+      "Supply Chain",
+      "Digitalisierung"
+    ],
+    "breitengrad": 43.6532,
+    "laengengrad": -79.3832
+  },
+  {
+    "id": "0EB3B207-4174-4840-90C9-58D53FEF0194",
+    "name": "Monterrey Automation & Metalworking",
+    "ort": "Monterrey",
+    "land": "MX",
+    "startDatum": "2026-09-15T00:00:00Z",
+    "endDatum": "2026-09-17T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Mexiko für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/mx/messe-34",
+    "veranstalter": "Monterrey Expo Group",
+    "kategorien": [
+      "Elektronik",
+      "Komponenten",
+      "Innovation"
+    ],
+    "breitengrad": 25.6866,
+    "laengengrad": -100.3161
+  },
+  {
+    "id": "76BF7CCC-CF88-4641-AD7C-2AAA5F5E48E6",
+    "name": "São Paulo Industry & HVAC Expo",
+    "ort": "São Paulo",
+    "land": "BR",
+    "startDatum": "2026-10-06T00:00:00Z",
+    "endDatum": "2026-10-08T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Brasilien für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/br/messe-35",
+    "veranstalter": "São Paulo Expo Group",
+    "kategorien": [
+      "Maschinenbau",
+      "Produktion",
+      "Technologie"
+    ],
+    "breitengrad": -23.5558,
+    "laengengrad": -46.6396
+  },
+  {
+    "id": "B249E63E-794A-420B-A7D6-06825DC68A3B",
+    "name": "Buenos Aires Production Tech",
+    "ort": "Buenos Aires",
+    "land": "AR",
+    "startDatum": "2026-11-10T00:00:00Z",
+    "endDatum": "2026-11-12T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Argentinien für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/ar/messe-36",
+    "veranstalter": "Buenos Aires Expo Group",
+    "kategorien": [
+      "Infrastruktur",
+      "Energie",
+      "Industrie"
+    ],
+    "breitengrad": -34.6037,
+    "laengengrad": -58.3816
+  },
+  {
+    "id": "1EA30503-EA05-4502-B65A-A7DD216CC318",
+    "name": "Santiago Mining & Industrial Supply",
+    "ort": "Santiago de Chile",
+    "land": "CL",
+    "startDatum": "2027-03-16T00:00:00Z",
+    "endDatum": "2027-03-18T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Chile für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/cl/messe-37",
+    "veranstalter": "Santiago de Chile Expo Group",
+    "kategorien": [
+      "Industrie",
+      "Automation",
+      "Fertigung"
+    ],
+    "breitengrad": -33.4489,
+    "laengengrad": -70.6693
+  },
+  {
+    "id": "1567F5B3-FBF5-467B-8A9A-3A94F5C6F2E6",
+    "name": "Bogotá Engineering Solutions Fair",
+    "ort": "Bogotá",
+    "land": "CO",
+    "startDatum": "2027-04-13T00:00:00Z",
+    "endDatum": "2027-04-15T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Kolumbien für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/co/messe-38",
+    "veranstalter": "Bogotá Expo Group",
+    "kategorien": [
+      "HLK",
+      "Gebäudetechnik",
+      "Energie"
+    ],
+    "breitengrad": 4.711,
+    "laengengrad": -74.0721
+  },
+  {
+    "id": "EBB896CA-3EDA-4F67-B2BE-84D6D0E559EB",
+    "name": "Lima Infrastructure & Industry Expo",
+    "ort": "Lima",
+    "land": "PE",
+    "startDatum": "2027-05-18T00:00:00Z",
+    "endDatum": "2027-05-20T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Peru für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/pe/messe-39",
+    "veranstalter": "Lima Expo Group",
+    "kategorien": [
+      "Logistik",
+      "Supply Chain",
+      "Digitalisierung"
+    ],
+    "breitengrad": -12.0464,
+    "laengengrad": -77.0428
+  },
+  {
+    "id": "585356F6-6AFC-49CA-844E-7CDA22E08E58",
+    "name": "Johannesburg Industrial Systems Expo",
+    "ort": "Johannesburg",
+    "land": "ZA",
+    "startDatum": "2027-09-21T00:00:00Z",
+    "endDatum": "2027-09-23T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Südafrika für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/za/messe-40",
+    "veranstalter": "Johannesburg Expo Group",
+    "kategorien": [
+      "Elektronik",
+      "Komponenten",
+      "Innovation"
+    ],
+    "breitengrad": -26.2041,
+    "laengengrad": 28.0473
+  },
+  {
+    "id": "7EA4AFC1-2936-4A49-B8B4-3BAFE65AC6B0",
+    "name": "Cairo HVAC & Building Services",
+    "ort": "Kairo",
+    "land": "EG",
+    "startDatum": "2026-04-20T00:00:00Z",
+    "endDatum": "2026-04-24T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Ägypten für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/eg/messe-41",
+    "veranstalter": "Kairo Expo Group",
+    "kategorien": [
+      "Maschinenbau",
+      "Produktion",
+      "Technologie"
+    ],
+    "breitengrad": 30.0444,
+    "laengengrad": 31.2357
+  },
+  {
+    "id": "60094402-8C55-4F1D-A59D-20611B125373",
+    "name": "Casablanca Factory & Sourcing Expo",
+    "ort": "Casablanca",
+    "land": "MA",
+    "startDatum": "2026-05-12T00:00:00Z",
+    "endDatum": "2026-05-14T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Marokko für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/ma/messe-42",
+    "veranstalter": "Casablanca Expo Group",
+    "kategorien": [
+      "Infrastruktur",
+      "Energie",
+      "Industrie"
+    ],
+    "breitengrad": 33.5731,
+    "laengengrad": -7.5898
+  },
+  {
+    "id": "E47E4893-A55D-4C06-A677-BB364751D793",
+    "name": "Lagos Energy & Industrial Week",
+    "ort": "Lagos",
+    "land": "NG",
+    "startDatum": "2026-06-23T00:00:00Z",
+    "endDatum": "2026-06-25T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Nigeria für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/ng/messe-43",
+    "veranstalter": "Lagos Expo Group",
+    "kategorien": [
+      "Industrie",
+      "Automation",
+      "Fertigung"
+    ],
+    "breitengrad": 6.5244,
+    "laengengrad": 3.3792
+  },
+  {
+    "id": "0D157737-9F18-4908-8100-A38803427785",
+    "name": "Nairobi Smart Industry Forum",
+    "ort": "Nairobi",
+    "land": "KE",
+    "startDatum": "2026-09-15T00:00:00Z",
+    "endDatum": "2026-09-17T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Kenia für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/ke/messe-44",
+    "veranstalter": "Nairobi Expo Group",
+    "kategorien": [
+      "HLK",
+      "Gebäudetechnik",
+      "Energie"
+    ],
+    "breitengrad": -1.2921,
+    "laengengrad": 36.8219
+  },
+  {
+    "id": "88B1E4EA-B30C-4222-B312-86668E931077",
+    "name": "Riyadh Manufacturing & Supply Expo",
+    "ort": "Riad",
+    "land": "SA",
+    "startDatum": "2026-10-06T00:00:00Z",
+    "endDatum": "2026-10-08T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Saudi-Arabien für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/sa/messe-45",
+    "veranstalter": "Riad Expo Group",
+    "kategorien": [
+      "Logistik",
+      "Supply Chain",
+      "Digitalisierung"
+    ],
+    "breitengrad": 24.7136,
+    "laengengrad": 46.6753
+  },
+  {
+    "id": "4BFA5BAC-8833-45EE-8279-24F7996980FA",
+    "name": "Dubai Smart Industry Expo",
+    "ort": "Dubai",
+    "land": "AE",
+    "startDatum": "2026-11-10T00:00:00Z",
+    "endDatum": "2026-11-12T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Vereinigte Arabische Emirate für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/ae/messe-46",
+    "veranstalter": "Dubai Expo Group",
+    "kategorien": [
+      "Elektronik",
+      "Komponenten",
+      "Innovation"
+    ],
+    "breitengrad": 25.2048,
+    "laengengrad": 55.2708
+  },
+  {
+    "id": "E329526D-D662-46E4-8402-D0DBB0F9B482",
+    "name": "Doha Building & Climate Tech",
+    "ort": "Doha",
+    "land": "QA",
+    "startDatum": "2027-03-16T00:00:00Z",
+    "endDatum": "2027-03-18T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Katar für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/qa/messe-47",
+    "veranstalter": "Doha Expo Group",
+    "kategorien": [
+      "Maschinenbau",
+      "Produktion",
+      "Technologie"
+    ],
+    "breitengrad": 25.2854,
+    "laengengrad": 51.531
+  },
+  {
+    "id": "9B8F070A-176A-4BA5-962A-44248402BC1B",
+    "name": "Tel Aviv Electronics & Innovation Fair",
+    "ort": "Tel Aviv",
+    "land": "IL",
+    "startDatum": "2027-04-13T00:00:00Z",
+    "endDatum": "2027-04-15T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Israel für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/il/messe-48",
+    "veranstalter": "Tel Aviv Expo Group",
+    "kategorien": [
+      "Infrastruktur",
+      "Energie",
+      "Industrie"
+    ],
+    "breitengrad": 32.0853,
+    "laengengrad": 34.7818
+  },
+  {
+    "id": "762C7C88-25D0-4A0C-B581-6BA74C4206C3",
+    "name": "Mumbai Industrial Technology Expo",
+    "ort": "Mumbai",
+    "land": "IN",
+    "startDatum": "2027-05-18T00:00:00Z",
+    "endDatum": "2027-05-20T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Indien für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/in/messe-49",
+    "veranstalter": "Mumbai Expo Group",
+    "kategorien": [
+      "Industrie",
+      "Automation",
+      "Fertigung"
+    ],
+    "breitengrad": 19.076,
+    "laengengrad": 72.8777
+  },
+  {
+    "id": "D0C40C1B-FF17-46F7-8453-547C763E48C7",
+    "name": "Shanghai Manufacturing World",
+    "ort": "Shanghai",
+    "land": "CN",
+    "startDatum": "2027-09-21T00:00:00Z",
+    "endDatum": "2027-09-23T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in China für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/cn/messe-50",
+    "veranstalter": "Shanghai Expo Group",
+    "kategorien": [
+      "HLK",
+      "Gebäudetechnik",
+      "Energie"
+    ],
+    "breitengrad": 31.2304,
+    "laengengrad": 121.4737
+  },
+  {
+    "id": "5F26FB00-F2DB-433B-A550-E4828AD9D815",
+    "name": "Tokio Automation & Components Expo",
+    "ort": "Tokio",
+    "land": "JP",
+    "startDatum": "2026-04-20T00:00:00Z",
+    "endDatum": "2026-04-24T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Japan für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/jp/messe-51",
+    "veranstalter": "Tokio Expo Group",
+    "kategorien": [
+      "Logistik",
+      "Supply Chain",
+      "Digitalisierung"
+    ],
+    "breitengrad": 35.6762,
+    "laengengrad": 139.6503
+  },
+  {
+    "id": "BC7DA3EC-98EC-4DF9-B780-7767AF48FA3D",
+    "name": "Seoul Smart Factory & Robotics",
+    "ort": "Seoul",
+    "land": "KR",
+    "startDatum": "2026-05-12T00:00:00Z",
+    "endDatum": "2026-05-14T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Südkorea für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/kr/messe-52",
+    "veranstalter": "Seoul Expo Group",
+    "kategorien": [
+      "Elektronik",
+      "Komponenten",
+      "Innovation"
+    ],
+    "breitengrad": 37.5665,
+    "laengengrad": 126.978
+  },
+  {
+    "id": "B8877B19-BD4A-494F-849D-DF06517DAC76",
+    "name": "Taipei Electronics Supply Chain Expo",
+    "ort": "Taipeh",
+    "land": "TW",
+    "startDatum": "2026-06-23T00:00:00Z",
+    "endDatum": "2026-06-25T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Taiwan für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/tw/messe-53",
+    "veranstalter": "Taipeh Expo Group",
+    "kategorien": [
+      "Maschinenbau",
+      "Produktion",
+      "Technologie"
+    ],
+    "breitengrad": 25.033,
+    "laengengrad": 121.5654
+  },
+  {
+    "id": "4AC7FE97-6951-4232-B0F5-22C38D0F2D55",
+    "name": "Singapore Logistics & Smart Industry",
+    "ort": "Singapur",
+    "land": "SG",
+    "startDatum": "2026-09-15T00:00:00Z",
+    "endDatum": "2026-09-17T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Singapur für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/sg/messe-54",
+    "veranstalter": "Singapur Expo Group",
+    "kategorien": [
+      "Infrastruktur",
+      "Energie",
+      "Industrie"
+    ],
+    "breitengrad": 1.3521,
+    "laengengrad": 103.8198
+  },
+  {
+    "id": "7C97BD33-A37E-41F7-87D5-957E36D6FA22",
+    "name": "Bangkok HVAC & Industrial Solutions",
+    "ort": "Bangkok",
+    "land": "TH",
+    "startDatum": "2026-10-06T00:00:00Z",
+    "endDatum": "2026-10-08T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Thailand für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/th/messe-55",
+    "veranstalter": "Bangkok Expo Group",
+    "kategorien": [
+      "Industrie",
+      "Automation",
+      "Fertigung"
+    ],
+    "breitengrad": 13.7563,
+    "laengengrad": 100.5018
+  },
+  {
+    "id": "034B5D9D-FA6B-43FC-983B-F1CB33057405",
+    "name": "Ho-Chi-Minh-City Manufacturing Expo",
+    "ort": "Ho-Chi-Minh-Stadt",
+    "land": "VN",
+    "startDatum": "2026-11-10T00:00:00Z",
+    "endDatum": "2026-11-12T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Vietnam für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/vn/messe-56",
+    "veranstalter": "Ho-Chi-Minh-Stadt Expo Group",
+    "kategorien": [
+      "HLK",
+      "Gebäudetechnik",
+      "Energie"
+    ],
+    "breitengrad": 10.8231,
+    "laengengrad": 106.6297
+  },
+  {
+    "id": "7929A09F-D2BE-4B56-BE09-FA2AB6E576BD",
+    "name": "Kuala Lumpur Engineering Expo",
+    "ort": "Kuala Lumpur",
+    "land": "MY",
+    "startDatum": "2027-03-16T00:00:00Z",
+    "endDatum": "2027-03-18T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Malaysia für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/my/messe-57",
+    "veranstalter": "Kuala Lumpur Expo Group",
+    "kategorien": [
+      "Logistik",
+      "Supply Chain",
+      "Digitalisierung"
+    ],
+    "breitengrad": 3.139,
+    "laengengrad": 101.6869
+  },
+  {
+    "id": "E735DCDC-6DEB-4DD2-A2E2-99530C8951C8",
+    "name": "Jakarta Industry & Energy Fair",
+    "ort": "Jakarta",
+    "land": "ID",
+    "startDatum": "2027-04-13T00:00:00Z",
+    "endDatum": "2027-04-15T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Indonesien für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/id/messe-58",
+    "veranstalter": "Jakarta Expo Group",
+    "kategorien": [
+      "Elektronik",
+      "Komponenten",
+      "Innovation"
+    ],
+    "breitengrad": -6.2088,
+    "laengengrad": 106.8456
+  },
+  {
+    "id": "E876F464-17A7-427F-B01F-D997DEEB46EC",
+    "name": "Melbourne Advanced Manufacturing Expo",
+    "ort": "Melbourne",
+    "land": "AU",
+    "startDatum": "2027-05-18T00:00:00Z",
+    "endDatum": "2027-05-20T00:00:00Z",
+    "beschreibung": "Testdatensatz für MessePilot mit Koordinaten in Australien für Listen-, Such-, Filter- und Kartenansicht.",
+    "website": "https://example.com/au/messe-59",
+    "veranstalter": "Melbourne Expo Group",
+    "kategorien": [
+      "Maschinenbau",
+      "Produktion",
+      "Technologie"
+    ],
+    "breitengrad": -37.8136,
+    "laengengrad": 144.9631
   }
 ]
