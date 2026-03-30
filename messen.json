@@ -1,62 +1,894 @@
 [
   {
-    "id": "A3F4F5E4-9D7C-4F24-9B49-7D8D6D88A101",
-    "name": "Hannover Messe",
-    "ort": "Hannover",
-    "land": "DE",
-    "startDatum": "2026-04-20T00:00:00Z",
-    "endDatum": "2026-04-24T00:00:00Z",
-    "beschreibung": "Internationale Industriemesse für Innovation, Automation und Energie",
-    "website": "https://www.hannovermesse.de",
-    "veranstalter": "Deutsche Messe AG",
-    "kategorien": ["Industrie", "Automation", "Energie"]
+    "id": "C6D647F5-81CE-4944-92D3-CBE30B82305F",
+    "name": "New York Industrial Expo",
+    "ort": "New York",
+    "land": "CN",
+    "startDatum": "2026-05-11T00:00:00Z",
+    "endDatum": "2026-05-27T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "",
+    "veranstalter": "",
+    "kategorien": [
+      "Automation",
+      "HLK",
+      "Energie"
+    ]
   },
   {
-    "id": "8F1B56A2-3D9F-4C6D-8890-2BBA3344C202",
-    "name": "ISH Frankfurt",
-    "ort": "Frankfurt",
+    "id": "1F6F8467-5B2E-4C06-A1FA-F6235B858DF3",
+    "name": "Shanghai Industrial Expo",
+    "ort": "Shanghai",
     "land": "DE",
-    "startDatum": "2027-03-15T00:00:00Z",
-    "endDatum": "2027-03-19T00:00:00Z",
-    "beschreibung": "Weltleitmesse für Wasser, Wärme und Luft",
-    "website": "https://ish.messefrankfurt.com",
-    "veranstalter": "Messe Frankfurt",
-    "kategorien": ["HLK", "Gebäudetechnik"]
+    "startDatum": "2025-03-27T00:00:00Z",
+    "endDatum": "2025-05-27T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-1",
+    "veranstalter": "Shanghai Expo Group",
+    "kategorien": [
+      "Industrie"
+    ]
   },
   {
-    "id": "C1E8B8A4-91C3-4A7A-8C0B-6F2E1B77F303",
-    "name": "Chillventa",
-    "ort": "Nürnberg",
+    "id": "515167D7-A23A-4B3A-9B0F-B4FD45371E56",
+    "name": "New York Automation World",
+    "ort": "New York",
     "land": "DE",
-    "startDatum": "2026-10-13T00:00:00Z",
-    "endDatum": "2026-10-15T00:00:00Z",
-    "beschreibung": "Internationale Fachmesse für Kälte-, Klima-, Lüftungs- und Wärmepumpentechnik",
-    "website": "https://www.chillventa.de",
-    "veranstalter": "NürnbergMesse",
-    "kategorien": ["HLK", "Klima", "Kälte"]
+    "startDatum": "2026-05-27T00:00:00Z",
+    "endDatum": "2026-04-23T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-2",
+    "veranstalter": "New York Expo Group",
+    "kategorien": [
+      "Elektronik"
+    ]
   },
   {
-    "id": "D2F94C11-5A9E-4C21-B6F3-8E91D9A4B404",
-    "name": "SPS – Smart Production Solutions",
-    "ort": "Nürnberg",
-    "land": "DE",
-    "startDatum": "2026-11-24T00:00:00Z",
-    "endDatum": "2026-11-26T00:00:00Z",
-    "beschreibung": "Fachmesse für industrielle Automatisierung und digitale Produktion",
-    "website": "https://sps.mesago.com",
-    "veranstalter": "Mesago Messe Frankfurt",
-    "kategorien": ["Automation", "Industrie", "Digitalisierung"]
+    "id": "8FC8AA97-30BE-4F0D-ADD2-C1F872EA24D4",
+    "name": "Zürich HVAC & Energy Fair",
+    "ort": "Zürich",
+    "land": "CN",
+    "startDatum": "2026-04-27T00:00:00Z",
+    "endDatum": "2026-05-23T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-3",
+    "veranstalter": "Zürich Expo Group",
+    "kategorien": [
+      "Automation",
+      "Industrie",
+      "HLK"
+    ]
   },
   {
-    "id": "E3A1F77B-6C44-4E5F-9F2C-9D72B1E5C505",
-    "name": "electronica",
-    "ort": "München",
+    "id": "475F6D81-C479-4986-89AF-DACFB7507C1B",
+    "name": "Sydney Automation World",
+    "ort": "Sydney",
+    "land": "CN",
+    "startDatum": "2027-09-22T00:00:00Z",
+    "endDatum": "2027-02-13T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-4",
+    "veranstalter": "Sydney Expo Group",
+    "kategorien": [
+      "Elektronik",
+      "Industrie",
+      "Produktion"
+    ]
+  },
+  {
+    "id": "9A56B673-AD23-4DF8-A1CC-F5A1CDE832DE",
+    "name": "Global Shanghai Tech Summit",
+    "ort": "Shanghai",
+    "land": "CN",
+    "startDatum": "2026-04-10T00:00:00Z",
+    "endDatum": "2026-09-25T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-5",
+    "veranstalter": "Shanghai Expo Group",
+    "kategorien": [
+      "Energie",
+      "Elektronik",
+      "Produktion"
+    ]
+  },
+  {
+    "id": "46797CC2-716C-4C28-BCF3-38319D0C1A5C",
+    "name": "Paris Industrial Expo 2026",
+    "ort": "Paris",
+    "land": "FR",
+    "startDatum": "2027-08-27T00:00:00Z",
+    "endDatum": "2027-07-24T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-6",
+    "veranstalter": "Paris Expo Group",
+    "kategorien": [
+      "Industrie",
+      "Logistik"
+    ]
+  },
+  {
+    "id": "07166359-2F11-45ED-928E-E8248A4B15FC",
+    "name": "Madrid Industrial Expo 2026",
+    "ort": "Madrid",
+    "land": "AE",
+    "startDatum": "2025-09-15T00:00:00Z",
+    "endDatum": "2025-04-28T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-7",
+    "veranstalter": "Madrid Expo Group",
+    "kategorien": [
+      "HLK"
+    ]
+  },
+  {
+    "id": "29523B2A-64CE-4F6A-B92C-2AA2C2B53314",
+    "name": "Zürich Manufacturing Week",
+    "ort": "Zürich",
+    "land": "ES",
+    "startDatum": "2025-01-11T00:00:00Z",
+    "endDatum": "2025-05-10T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-8",
+    "veranstalter": "Zürich Expo Group",
+    "kategorien": [
+      "Automation",
+      "Logistik",
+      "Industrie"
+    ]
+  },
+  {
+    "id": "7B224BCD-A1E0-43FC-B411-5F5E564CE627",
+    "name": "Dubai Automation World",
+    "ort": "Dubai",
     "land": "DE",
-    "startDatum": "2026-11-10T00:00:00Z",
-    "endDatum": "2026-11-13T00:00:00Z",
-    "beschreibung": "Weltleitmesse für Elektronik, Komponenten und Systeme",
-    "website": "https://electronica.de",
-    "veranstalter": "Messe München",
-    "kategorien": ["Elektronik", "Sensorik", "Komponenten"]
+    "startDatum": "2026-08-25T00:00:00Z",
+    "endDatum": "2026-07-19T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-9",
+    "veranstalter": "Dubai Expo Group",
+    "kategorien": [
+      "Industrie",
+      "Automation",
+      "HLK"
+    ]
+  },
+  {
+    "id": "9636C5BB-E04A-462A-80F4-D543F663BC27",
+    "name": "Global Paris Tech Summit",
+    "ort": "Paris",
+    "land": "BR",
+    "startDatum": "2025-03-19T00:00:00Z",
+    "endDatum": "2025-02-20T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "",
+    "veranstalter": "Paris Expo Group",
+    "kategorien": [
+      "Elektronik",
+      "Automation"
+    ]
+  },
+  {
+    "id": "8B2C09D2-3953-4B3A-B77C-93CC14A86CFA",
+    "name": "Global Berlin Tech Summit",
+    "ort": "Berlin",
+    "land": "ES",
+    "startDatum": "2025-08-18T00:00:00Z",
+    "endDatum": "2025-05-20T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-11",
+    "veranstalter": "Berlin Expo Group",
+    "kategorien": [
+      "Automation"
+    ]
+  },
+  {
+    "id": "27246FAA-5F9A-4DF6-BEFB-D09A3B0760AB",
+    "name": "Berlin Manufacturing Week",
+    "ort": "Berlin",
+    "land": "CH",
+    "startDatum": "2025-09-16T00:00:00Z",
+    "endDatum": "2025-08-25T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-12",
+    "veranstalter": "Berlin Expo Group",
+    "kategorien": [
+      "Logistik"
+    ]
+  },
+  {
+    "id": "DFBC31A2-EFBA-4739-950B-280987A8A463",
+    "name": "São Paulo HVAC & Energy Fair",
+    "ort": "São Paulo",
+    "land": "JP",
+    "startDatum": "2027-05-18T00:00:00Z",
+    "endDatum": "2027-06-17T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-13",
+    "veranstalter": "São Paulo Expo Group",
+    "kategorien": [
+      "HLK"
+    ]
+  },
+  {
+    "id": "87608946-28D7-45CE-8502-2FCE92AEC49B",
+    "name": "New York Manufacturing Week",
+    "ort": "New York",
+    "land": "CN",
+    "startDatum": "2025-02-20T00:00:00Z",
+    "endDatum": "2025-01-23T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-14",
+    "veranstalter": "New York Expo Group",
+    "kategorien": [
+      "Logistik",
+      "HLK"
+    ]
+  },
+  {
+    "id": "027C2A56-1D6B-46FA-8C5A-106B06E5FBCB",
+    "name": "Global Madrid Tech Summit",
+    "ort": "Madrid",
+    "land": "BR",
+    "startDatum": "2026-04-11T00:00:00Z",
+    "endDatum": "2026-02-22T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-15",
+    "veranstalter": "",
+    "kategorien": [
+      "Industrie"
+    ]
+  },
+  {
+    "id": "58629A2D-71E1-434F-AA17-FFD4598FB143",
+    "name": "New York Automation World",
+    "ort": "New York",
+    "land": "US",
+    "startDatum": "2026-06-24T00:00:00Z",
+    "endDatum": "2026-09-13T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-16",
+    "veranstalter": "New York Expo Group",
+    "kategorien": [
+      "Energie"
+    ]
+  },
+  {
+    "id": "2F0C11F3-3D0A-41AA-BB5F-7F5CB93DE218",
+    "name": "Dubai Industrial Expo",
+    "ort": "Dubai",
+    "land": "DE",
+    "startDatum": "2027-03-21T00:00:00Z",
+    "endDatum": "2027-07-11T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-17",
+    "veranstalter": "Dubai Expo Group",
+    "kategorien": [
+      "Logistik"
+    ]
+  },
+  {
+    "id": "CC8ECE5B-4123-45DF-BCA1-BAA8A91FE59C",
+    "name": "Global Sydney Tech Summit",
+    "ort": "Sydney",
+    "land": "BR",
+    "startDatum": "2025-07-27T00:00:00Z",
+    "endDatum": "2025-08-25T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-18",
+    "veranstalter": "Sydney Expo Group",
+    "kategorien": [
+      "Automation",
+      "HLK"
+    ]
+  },
+  {
+    "id": "A8D3B548-CA7E-4CE3-A88C-9DBAADCB6FB0",
+    "name": "Paris Industrial Expo",
+    "ort": "Paris",
+    "land": "AE",
+    "startDatum": "2026-02-12T00:00:00Z",
+    "endDatum": "2026-06-26T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-19",
+    "veranstalter": "Paris Expo Group",
+    "kategorien": [
+      "Logistik"
+    ]
+  },
+  {
+    "id": "DC906FE9-A30A-4B69-9575-6159892D20AB",
+    "name": "Paris Automation World",
+    "ort": "Paris",
+    "land": "ES",
+    "startDatum": "2026-02-20T00:00:00Z",
+    "endDatum": "2026-02-28T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "",
+    "veranstalter": "Paris Expo Group",
+    "kategorien": [
+      "Automation"
+    ]
+  },
+  {
+    "id": "1251C272-326C-4EA0-9762-6A648B278AC6",
+    "name": "Global Sydney Tech Summit",
+    "ort": "Sydney",
+    "land": "JP",
+    "startDatum": "2027-04-22T00:00:00Z",
+    "endDatum": "2027-04-26T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-21",
+    "veranstalter": "Sydney Expo Group",
+    "kategorien": [
+      "Elektronik"
+    ]
+  },
+  {
+    "id": "142E4A21-01CB-4CD7-B750-6A0ECCBC2512",
+    "name": "Sydney Industrial Expo",
+    "ort": "Sydney",
+    "land": "BR",
+    "startDatum": "2026-09-25T00:00:00Z",
+    "endDatum": "2026-05-26T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-22",
+    "veranstalter": "Sydney Expo Group",
+    "kategorien": [
+      "Logistik"
+    ]
+  },
+  {
+    "id": "E8A0B127-BBC4-4196-8B67-BC570C22040B",
+    "name": "Global Dubai Tech Summit",
+    "ort": "Dubai",
+    "land": "CH",
+    "startDatum": "2026-01-28T00:00:00Z",
+    "endDatum": "2026-07-10T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-23",
+    "veranstalter": "Dubai Expo Group",
+    "kategorien": [
+      "Elektronik",
+      "Automation"
+    ]
+  },
+  {
+    "id": "21A9320D-8EEE-46DF-9BB4-CA590DC3A9D9",
+    "name": "Zürich Industrial Expo",
+    "ort": "Zürich",
+    "land": "FR",
+    "startDatum": "2027-08-21T00:00:00Z",
+    "endDatum": "2027-01-25T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-24",
+    "veranstalter": "Zürich Expo Group",
+    "kategorien": [
+      "Industrie",
+      "HLK"
+    ]
+  },
+  {
+    "id": "D8D489AE-41A2-44A1-8E99-8B6793A520D4",
+    "name": "Paris Industrial Expo",
+    "ort": "Paris",
+    "land": "BR",
+    "startDatum": "2027-09-13T00:00:00Z",
+    "endDatum": "2027-04-15T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-25",
+    "veranstalter": "Paris Expo Group",
+    "kategorien": [
+      "Industrie",
+      "Elektronik",
+      "Automation"
+    ]
+  },
+  {
+    "id": "7CED7AA3-66FC-4F1E-92BD-A7FD3D103F95",
+    "name": "São Paulo Automation World",
+    "ort": "São Paulo",
+    "land": "FR",
+    "startDatum": "2027-02-19T00:00:00Z",
+    "endDatum": "2027-03-28T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-26",
+    "veranstalter": "São Paulo Expo Group",
+    "kategorien": [
+      "Energie",
+      "HLK",
+      "Elektronik"
+    ]
+  },
+  {
+    "id": "269ADA70-B7A3-4F4C-8C63-C08657BFC17A",
+    "name": "São Paulo HVAC & Energy Fair",
+    "ort": "São Paulo",
+    "land": "DE",
+    "startDatum": "2026-06-13T00:00:00Z",
+    "endDatum": "2026-09-10T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-27",
+    "veranstalter": "São Paulo Expo Group",
+    "kategorien": [
+      "HLK",
+      "Automation",
+      "Elektronik"
+    ]
+  },
+  {
+    "id": "92AB9434-6870-4AC9-9443-DDF073556726",
+    "name": "Global Shanghai Tech Summit",
+    "ort": "Shanghai",
+    "land": "AE",
+    "startDatum": "2025-06-13T00:00:00Z",
+    "endDatum": "2025-05-12T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-28",
+    "veranstalter": "Shanghai Expo Group",
+    "kategorien": [
+      "Elektronik",
+      "Energie"
+    ]
+  },
+  {
+    "id": "BEE14650-5DCE-44F9-B577-B64C53550C10",
+    "name": "São Paulo Industrial Expo",
+    "ort": "São Paulo",
+    "land": "BR",
+    "startDatum": "2027-06-15T00:00:00Z",
+    "endDatum": "2027-09-12T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-29",
+    "veranstalter": "São Paulo Expo Group",
+    "kategorien": [
+      "Produktion"
+    ]
+  },
+  {
+    "id": "C3B3B56F-7FD5-4B37-AF2C-DE2DC7EC0DD4",
+    "name": "Sydney HVAC & Energy Fair",
+    "ort": "Sydney",
+    "land": "ES",
+    "startDatum": "2025-01-28T00:00:00Z",
+    "endDatum": "2025-09-16T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "",
+    "veranstalter": "",
+    "kategorien": [
+      "Energie",
+      "Industrie"
+    ]
+  },
+  {
+    "id": "95597BF4-1635-439E-A442-3DCAD280F03F",
+    "name": "Dubai Industrial Expo 2026",
+    "ort": "Dubai",
+    "land": "CH",
+    "startDatum": "2027-05-26T00:00:00Z",
+    "endDatum": "2027-08-26T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-31",
+    "veranstalter": "Dubai Expo Group",
+    "kategorien": [
+      "Produktion"
+    ]
+  },
+  {
+    "id": "B18560C6-8DF8-420F-9559-657F9CEB5EF6",
+    "name": "Dubai Automation World",
+    "ort": "Dubai",
+    "land": "BR",
+    "startDatum": "2025-07-23T00:00:00Z",
+    "endDatum": "2025-06-17T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-32",
+    "veranstalter": "Dubai Expo Group",
+    "kategorien": [
+      "Industrie",
+      "Elektronik",
+      "Automation"
+    ]
+  },
+  {
+    "id": "BB802221-4EA5-478A-A933-CBA7AB4F0422",
+    "name": "São Paulo Industrial Expo 2026",
+    "ort": "São Paulo",
+    "land": "DE",
+    "startDatum": "2027-08-19T00:00:00Z",
+    "endDatum": "2027-08-18T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-33",
+    "veranstalter": "São Paulo Expo Group",
+    "kategorien": [
+      "Energie",
+      "Automation"
+    ]
+  },
+  {
+    "id": "D5A78E4C-F45F-4AE3-B76B-02B92A8E7074",
+    "name": "Dubai Manufacturing Week",
+    "ort": "Dubai",
+    "land": "FR",
+    "startDatum": "2027-08-25T00:00:00Z",
+    "endDatum": "2027-07-12T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-34",
+    "veranstalter": "Dubai Expo Group",
+    "kategorien": [
+      "Logistik",
+      "HLK"
+    ]
+  },
+  {
+    "id": "0209E2A8-6A74-42B6-97C9-3B139AED7506",
+    "name": "New York Industrial Expo 2026",
+    "ort": "New York",
+    "land": "BR",
+    "startDatum": "2027-04-20T00:00:00Z",
+    "endDatum": "2027-04-18T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-35",
+    "veranstalter": "New York Expo Group",
+    "kategorien": [
+      "HLK",
+      "Industrie",
+      "Produktion"
+    ]
+  },
+  {
+    "id": "37822E16-95AA-48CA-A48B-5A15148475F5",
+    "name": "São Paulo Industrial Expo 2026",
+    "ort": "São Paulo",
+    "land": "DE",
+    "startDatum": "2026-07-28T00:00:00Z",
+    "endDatum": "2026-05-27T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-36",
+    "veranstalter": "São Paulo Expo Group",
+    "kategorien": [
+      "Elektronik"
+    ]
+  },
+  {
+    "id": "6AEAAB55-B461-4C01-9063-D6C0EE36F5D5",
+    "name": "Berlin HVAC & Energy Fair",
+    "ort": "Berlin",
+    "land": "CN",
+    "startDatum": "2027-08-26T00:00:00Z",
+    "endDatum": "2027-01-24T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-37",
+    "veranstalter": "Berlin Expo Group",
+    "kategorien": [
+      "Produktion"
+    ]
+  },
+  {
+    "id": "0F4FCF34-740F-426B-80AE-49D9841B2C04",
+    "name": "Global Dubai Tech Summit",
+    "ort": "Dubai",
+    "land": "US",
+    "startDatum": "2026-02-23T00:00:00Z",
+    "endDatum": "2026-01-25T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-38",
+    "veranstalter": "Dubai Expo Group",
+    "kategorien": [
+      "Produktion",
+      "HLK"
+    ]
+  },
+  {
+    "id": "D3C7B285-BE0A-4207-8788-7C9F005B8D2F",
+    "name": "New York Manufacturing Week",
+    "ort": "New York",
+    "land": "CH",
+    "startDatum": "2026-04-23T00:00:00Z",
+    "endDatum": "2026-08-24T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-39",
+    "veranstalter": "New York Expo Group",
+    "kategorien": [
+      "Produktion",
+      "Elektronik",
+      "Logistik"
+    ]
+  },
+  {
+    "id": "718D298A-2120-4827-8EB7-7DBACFD1FECC",
+    "name": "Madrid HVAC & Energy Fair",
+    "ort": "Madrid",
+    "land": "JP",
+    "startDatum": "2025-05-11T00:00:00Z",
+    "endDatum": "2025-05-15T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "",
+    "veranstalter": "Madrid Expo Group",
+    "kategorien": [
+      "Produktion",
+      "HLK"
+    ]
+  },
+  {
+    "id": "3A813751-CAA0-44A8-83A6-81D0836D8E14",
+    "name": "Shanghai Industrial Expo",
+    "ort": "Shanghai",
+    "land": "AE",
+    "startDatum": "2027-08-22T00:00:00Z",
+    "endDatum": "2027-07-20T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-41",
+    "veranstalter": "Shanghai Expo Group",
+    "kategorien": [
+      "Produktion",
+      "HLK"
+    ]
+  },
+  {
+    "id": "01C6C228-72B6-46FA-AF49-04948E1D5E58",
+    "name": "Dubai Manufacturing Week",
+    "ort": "Dubai",
+    "land": "CH",
+    "startDatum": "2027-03-27T00:00:00Z",
+    "endDatum": "2027-04-10T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-42",
+    "veranstalter": "Dubai Expo Group",
+    "kategorien": [
+      "Energie"
+    ]
+  },
+  {
+    "id": "95A41F07-E63E-4D25-8B08-76BA57707B01",
+    "name": "New York Industrial Expo 2026",
+    "ort": "New York",
+    "land": "FR",
+    "startDatum": "2026-03-25T00:00:00Z",
+    "endDatum": "2026-06-16T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-43",
+    "veranstalter": "New York Expo Group",
+    "kategorien": [
+      "Energie",
+      "Logistik"
+    ]
+  },
+  {
+    "id": "3657724B-6CE2-45F0-890B-B37FC578FA37",
+    "name": "Dubai Industrial Expo 2026",
+    "ort": "Dubai",
+    "land": "FR",
+    "startDatum": "2026-05-13T00:00:00Z",
+    "endDatum": "2026-01-27T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-44",
+    "veranstalter": "Dubai Expo Group",
+    "kategorien": [
+      "Energie",
+      "HLK",
+      "Logistik"
+    ]
+  },
+  {
+    "id": "78546CC6-D5EE-4173-9AEB-E72B0A38B565",
+    "name": "São Paulo Manufacturing Week",
+    "ort": "São Paulo",
+    "land": "US",
+    "startDatum": "2027-09-23T00:00:00Z",
+    "endDatum": "2027-05-17T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-45",
+    "veranstalter": "",
+    "kategorien": [
+      "Automation"
+    ]
+  },
+  {
+    "id": "935EC13F-87F6-40AC-AFD9-864BC6006C60",
+    "name": "São Paulo Automation World",
+    "ort": "São Paulo",
+    "land": "BR",
+    "startDatum": "2025-05-12T00:00:00Z",
+    "endDatum": "2025-01-27T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-46",
+    "veranstalter": "São Paulo Expo Group",
+    "kategorien": [
+      "Logistik",
+      "Energie"
+    ]
+  },
+  {
+    "id": "FCE4D624-21FC-443F-BDE6-65B37569FFDD",
+    "name": "Dubai Manufacturing Week",
+    "ort": "Dubai",
+    "land": "CH",
+    "startDatum": "2027-06-23T00:00:00Z",
+    "endDatum": "2027-09-24T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-47",
+    "veranstalter": "Dubai Expo Group",
+    "kategorien": [
+      "HLK",
+      "Elektronik"
+    ]
+  },
+  {
+    "id": "EC192F18-12D0-464B-A906-7FC0D9F7516D",
+    "name": "New York Manufacturing Week",
+    "ort": "New York",
+    "land": "AE",
+    "startDatum": "2026-02-23T00:00:00Z",
+    "endDatum": "2026-07-26T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-48",
+    "veranstalter": "New York Expo Group",
+    "kategorien": [
+      "Automation"
+    ]
+  },
+  {
+    "id": "853C82F4-0ADA-4D14-8863-86BD0080CDDD",
+    "name": "Global São Paulo Tech Summit",
+    "ort": "São Paulo",
+    "land": "US",
+    "startDatum": "2025-04-28T00:00:00Z",
+    "endDatum": "2025-03-14T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-49",
+    "veranstalter": "São Paulo Expo Group",
+    "kategorien": [
+      "Energie"
+    ]
+  },
+  {
+    "id": "C00A44EE-AE9C-4B56-9D02-F4BD36C95D62",
+    "name": "Global Madrid Tech Summit",
+    "ort": "Madrid",
+    "land": "CH",
+    "startDatum": "2025-03-16T00:00:00Z",
+    "endDatum": "2025-09-17T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "",
+    "veranstalter": "Madrid Expo Group",
+    "kategorien": [
+      "HLK",
+      "Automation"
+    ]
+  },
+  {
+    "id": "CF734ED5-C84A-4A5B-9F9C-B91FF69CEF2A",
+    "name": "Tokyo Industrial Expo 2026",
+    "ort": "Tokyo",
+    "land": "DE",
+    "startDatum": "2025-09-16T00:00:00Z",
+    "endDatum": "2025-06-10T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-51",
+    "veranstalter": "Tokyo Expo Group",
+    "kategorien": [
+      "Logistik",
+      "Produktion"
+    ]
+  },
+  {
+    "id": "7D391C89-313B-4937-A2E6-1BC611AB07ED",
+    "name": "Global Shanghai Tech Summit",
+    "ort": "Shanghai",
+    "land": "JP",
+    "startDatum": "2026-04-16T00:00:00Z",
+    "endDatum": "2026-01-26T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-52",
+    "veranstalter": "Shanghai Expo Group",
+    "kategorien": [
+      "Logistik",
+      "HLK",
+      "Produktion"
+    ]
+  },
+  {
+    "id": "9A79D7C9-0E55-4C63-A7C0-84089C6E4AF0",
+    "name": "Tokyo Manufacturing Week",
+    "ort": "Tokyo",
+    "land": "JP",
+    "startDatum": "2027-01-22T00:00:00Z",
+    "endDatum": "2027-04-28T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-53",
+    "veranstalter": "Tokyo Expo Group",
+    "kategorien": [
+      "Elektronik"
+    ]
+  },
+  {
+    "id": "9FF01F08-1A78-42C0-87F4-3C35BAB75E1E",
+    "name": "Berlin Automation World",
+    "ort": "Berlin",
+    "land": "AU",
+    "startDatum": "2026-05-22T00:00:00Z",
+    "endDatum": "2026-03-16T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-54",
+    "veranstalter": "Berlin Expo Group",
+    "kategorien": [
+      "Industrie"
+    ]
+  },
+  {
+    "id": "53363B92-DC0E-438C-BA7F-07BA41306985",
+    "name": "Madrid Industrial Expo",
+    "ort": "Madrid",
+    "land": "AU",
+    "startDatum": "2026-09-17T00:00:00Z",
+    "endDatum": "2026-09-28T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-55",
+    "veranstalter": "Madrid Expo Group",
+    "kategorien": [
+      "Produktion",
+      "Logistik"
+    ]
+  },
+  {
+    "id": "E09657FD-0D1D-4288-BD4E-36D4A7F9E6DC",
+    "name": "Dubai Industrial Expo",
+    "ort": "Dubai",
+    "land": "BR",
+    "startDatum": "2025-02-22T00:00:00Z",
+    "endDatum": "2025-07-16T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-56",
+    "veranstalter": "Dubai Expo Group",
+    "kategorien": [
+      "HLK"
+    ]
+  },
+  {
+    "id": "D315E8AA-E24F-411A-8809-FCF8F48E2794",
+    "name": "Berlin Automation World",
+    "ort": "Berlin",
+    "land": "ES",
+    "startDatum": "2025-08-16T00:00:00Z",
+    "endDatum": "2025-03-22T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-57",
+    "veranstalter": "Berlin Expo Group",
+    "kategorien": [
+      "HLK",
+      "Energie"
+    ]
+  },
+  {
+    "id": "37A78189-355E-4B39-AA13-42F0F97023EC",
+    "name": "Zürich Industrial Expo",
+    "ort": "Zürich",
+    "land": "CN",
+    "startDatum": "2026-04-26T00:00:00Z",
+    "endDatum": "2026-05-10T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-58",
+    "veranstalter": "Zürich Expo Group",
+    "kategorien": [
+      "Elektronik",
+      "HLK",
+      "Energie"
+    ]
+  },
+  {
+    "id": "2EB8968E-93B6-4191-AFD8-891CB63ADE15",
+    "name": "São Paulo Industrial Expo 2026",
+    "ort": "São Paulo",
+    "land": "US",
+    "startDatum": "2027-04-22T00:00:00Z",
+    "endDatum": "2027-01-10T00:00:00Z",
+    "beschreibung": "Testdatensatz für Edge Cases: doppelte Namen, fehlende Felder, gemischte Daten.",
+    "website": "https://example.com/event-59",
+    "veranstalter": "São Paulo Expo Group",
+    "kategorien": [
+      "Automation",
+      "Elektronik",
+      "Industrie"
+    ]
   }
 ]
